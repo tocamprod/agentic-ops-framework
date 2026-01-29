@@ -1,3 +1,8 @@
+> This document defines the operational loop.
+> It is the source of truth for execution order and system behavior.
+> Conceptual descriptions live in `overview.md`.
+> Capability mappings live in `loop_mapping.md`.
+
 # Operational Intelligence Loop
 
 This system is designed as a continuous reasoning loop, not a linear workflow.
