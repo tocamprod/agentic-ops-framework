@@ -1,0 +1,9 @@
+{
+  "loop_id": "agentic-ops-loop",
+  "status": "idle",
+  "last_iteration": null,
+  "last_evaluated_at": null,
+  "current_state": "UNKNOWN",
+  "open_cases": [],
+  "human_in_the_loop_required": false
+}
